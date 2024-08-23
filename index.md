@@ -2,6 +2,12 @@
 ## Hello I am Jason, and I like programming video games
 ### Check out my organization I made in high school, [Future Inspire Academy](https://www.futureinspireacademy.com/)
 
+Some things I like about CS193:
+- It's chill
+- No exams
+- Casual teacher
+😎
+
 Ranking the Programming Languages I know by the amount of project experience I have with them:
 1. C#
 2. Python
