@@ -2,18 +2,7 @@
 ## I am Jason, and I like programming video games
 ### Check out my organization I made in high school, [Future Inspire Academy](https://www.futureinspireacademy.com/)
 
-Programming Languages that I know (or at least tried before):
-1. C#
-2. Python
-3. Java
-4. HTML
-5. CSS
-6. Javascript
-7. C++
-8. Go
-9. Dart
-
-Ranking the Programming Languages I actually have some project experience with:
+Ranking the Programming Languages I know by the amount of project experience I have with them:
 1. C#
 2. Python
 3. Java
