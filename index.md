@@ -1,4 +1,29 @@
 # Hello World
+## I am Jason, and I like programming video games
+
+Programming Languages that I know (or at least tried before):
+1. C#
+2. Python
+3. Java
+4. HTML
+5. CSS
+6. Javascript
+7. C++
+8. Go
+9. Dart
+
+Ranking the Programming Languages I actually have some project experience with:
+1. C#
+2. Python
+3. Java
+4. C++
+5. HTML
+6. CSS
+7. Javascript
+8. Dart
+9. Go
+
+Favorite C# Line of Code: 'GetComponent<T>()'
 ```
 ## Welcome to GitHub Pages
 
