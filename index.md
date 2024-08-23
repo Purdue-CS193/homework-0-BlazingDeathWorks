@@ -24,9 +24,12 @@ Ranking the Programming Languages I actually have some project experience with:
 8. Dart
 9. Go
 
-Favorite C# Line of Code: '''GetComponent<T>()'''
+Favorite C# Line of Code in Unity: 
+```
+GetComponent<T>();
+```
 
-# Below is the template provided to me
+# Below is the Template Provided to Me
 ```
 ## Welcome to GitHub Pages
 
