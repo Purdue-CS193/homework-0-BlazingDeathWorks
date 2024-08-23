@@ -1,5 +1,5 @@
-# Hello World
-## I am Jason, and I like programming video games
+# Jason's First CS193 Homework
+## Hello I am Jason, and I like programming video games
 ### Check out my organization I made in high school, [Future Inspire Academy](https://www.futureinspireacademy.com/)
 
 Ranking the Programming Languages I know by the amount of project experience I have with them:
