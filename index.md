@@ -1,5 +1,6 @@
 # Hello World
 ## I am Jason, and I like programming video games
+### Check out my organization I made in high school, [Future Inspire Academy](https://www.futureinspireacademy.com/)
 
 Programming Languages that I know (or at least tried before):
 1. C#
@@ -23,7 +24,9 @@ Ranking the Programming Languages I actually have some project experience with:
 8. Dart
 9. Go
 
-Favorite C# Line of Code: 'GetComponent<T>()'
+Favorite C# Line of Code: '''GetComponent<T>()'''
+
+# Below is the template provided to me
 ```
 ## Welcome to GitHub Pages
 
